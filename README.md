@@ -2,7 +2,7 @@
 
 Interactive 3D product configurator with real-time color, material, and size customization. Built with React Three Fiber.
 
-![Screenshots coming soon](https://img.shields.io/badge/screenshots-coming%20soon-lightgrey)
+![Default configurator view](docs/screenshots/hero-default.png)
 
 ## Features
 
@@ -19,7 +19,10 @@ Interactive 3D product configurator with real-time color, material, and size cus
 
 ## Screenshots
 
-*Coming soon - add product screenshots here*
+| Color customization | Size selection |
+|---|---|
+| ![Navy body color](docs/screenshots/color-navy.png) | ![1000mm size](docs/screenshots/size-1000mm.png) |
+| ![Sage body color](docs/screenshots/color-sage.png) | ![Default charcoal](docs/screenshots/hero-default.png) |
 
 ## Tech Stack
 
