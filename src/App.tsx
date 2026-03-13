@@ -54,7 +54,7 @@ function AddToCartButton() {
 	const sizeData = LAMP_SIZES.find((s) => s.key === size);
 
 	const totalPrice =
-		495 +
+		(sizeData?.basePrice ?? 495) +
 		[bodyColor, shadeColor, accentColor].reduce((sum, key) => {
 			const color = PRODUCT_COLORS.find((c) => c.key === key);
 			return sum + (color?.priceDelta ?? 0);
