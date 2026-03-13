@@ -2,7 +2,7 @@
 
 Interactive 3D product configurator with real-time color, material, and size customization. Built with React Three Fiber.
 
-**[Live Demo](https://3d-product-configurator.vercel.app)**
+**[Live Demo](https://voyagi-configurator.vercel.app)**
 
 ![Default configurator view](docs/screenshots/hero-default.png)
 
